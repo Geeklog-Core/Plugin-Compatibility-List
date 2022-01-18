@@ -14,9 +14,10 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |     *Xmlsitemap*|         2.0.3|    Yes|    Yes|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |         Autotags|         1.1.3|    Yes|    Yes|        No|    [GitHub](https://github.com/Geeklog-Plugins/autotags)|2020-04-18|
 |              Ban|         2.0.4|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2022-01-17|
+|        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
 
 * GUS-1.7.6.1 doesn't work with Geeklog 2.2.2, but its next version will.
-* Net Tools-2.1.3 doesn't work with PHP 8.0, because accessing array elements with curly braces was dropped with PHP 8.0.
+* Net Tools-2.1.3 works with PHP 8.0, but whois feature errors out because accessing array elements with curly braces was dropped with PHP 8.0.
 
 ## Geeklog 2.2.1sr1 (released on 2020-04-16, works with PHP 7.3) ##
 |      Plugin Name|Plugin Version|PHP 7.3|PHP 8.0|PostgreSQL|                                         Plugin Home Page|  Released|
@@ -33,6 +34,6 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |              GUS|       1.7.6.1|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/gus)|2020-04-28|
 |    Media Gallery|       1.7.2.4|    Yes|      ?|        No|[GitHub](https://github.com/Geeklog-Plugins/mediagallery)|2020-06-09|
 |        Messenger|         1.9.5|    Yes|      ?|        No|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2020-06-09|
-|        Net Tools|         2.1.3|      ?|     No|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
+|        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
 
 * Net Tools doesn't use database.
