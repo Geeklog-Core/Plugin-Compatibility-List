@@ -12,6 +12,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |          *Spamx*|         1.3.6|    Yes|      ?|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |    *Staticpages*|         1.7.3|    Yes|      ?|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |     *Xmlsitemap*|         2.0.3|    Yes|      ?|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
+|         Autotags|         1.1.3|    Yes|    Yes|        No|    [GitHub](https://github.com/Geeklog-Plugins/autotags)|2020-04-18|
 |              Ban|         2.0.4|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2022-01-17|
 
 
