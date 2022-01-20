@@ -13,7 +13,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |    *Staticpages*|         1.7.3|    Yes|    Yes|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |     *Xmlsitemap*|         2.0.3|    Yes|    Yes|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |         Autotags|         1.1.3|    Yes|    Yes|        No|    [GitHub](https://github.com/Geeklog-Plugins/autotags)|2020-04-18|
-|              Ban|         2.0.4|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2022-01-17|
+|              Ban|         2.0.4|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2022-01-20|
 |           Faqman|         0.9.2|    Yes|    Yes|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2022-01-18|
 |        Messenger|         1.9.6|    Yes|    Yes|       Yes|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2022-01-18|
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
