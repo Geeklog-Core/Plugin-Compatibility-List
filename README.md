@@ -17,6 +17,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |           Faqman|         0.9.2|    Yes|    Yes|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2022-01-18|
 |        Messenger|         1.9.6|    Yes|    Yes|       Yes|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2022-01-18|
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
+|       searchrank|         1.2.2|    Yes|    Yes|        No|  [GitHub](https://github.com/Geeklog-Plugins/searchrank)|2022-03-08|
 
 * GUS-1.7.6.1 doesn't work with Geeklog 2.2.2, but its next version will.
 * Net Tools-2.1.3 works with PHP 8.0, but whois feature errors out because accessing array elements with curly braces was dropped with PHP 8.0.
