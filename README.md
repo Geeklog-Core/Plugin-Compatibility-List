@@ -17,6 +17,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |        Downloads|       1.2.3.1|    Yes|    Yes|        No|   [GitHub](https://github.com/Geeklog-Plugins/downloads)|2022-03-08|
 |              FAQ|       1.2.0.2|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/faq)|2022-03-10|
 |           Faqman|         0.9.2|    Yes|    Yes|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2022-01-18|
+|    Media Gallery|       1.7.2.5|    Yes|    Yes|        No|[GitHub](https://github.com/Geeklog-Plugins/mediagallery)|2022-03-10|
 |             Menu|         1.2.8|     No|     No|        No|        [GitHub](https://github.com/Geeklog-Plugins/menu)|2018-08-30|
 |        Messenger|         1.9.6|    Yes|    Yes|       Yes|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2022-01-18|
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
