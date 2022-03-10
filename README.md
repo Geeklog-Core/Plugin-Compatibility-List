@@ -23,9 +23,10 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |             Menu|       1.2.8.1|    Yes|    Yes|        No|        [GitHub](https://github.com/Geeklog-Plugins/menu)|2022-03-10|
 |        Messenger|         1.9.6|    Yes|    Yes|       Yes|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2022-01-18|
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
+|              OGP|         1.2.2|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ogp)|2022-03-10|
 |      Search Rank|         1.2.2|    Yes|    Yes|        No|  [GitHub](https://github.com/Geeklog-Plugins/searchrank)|2022-03-08|
 
-* Langsel doesn't use database.
+* The Langsel, Net Tools and OGP plugins don't use database.
 * Net Tools-2.1.3 works with PHP 8.0, but whois feature errors out because accessing array elements with curly braces was dropped with PHP 8.0.
 
 ## Geeklog 2.2.1sr1 (released on 2020-04-16, works with PHP 7.3) ##
@@ -46,4 +47,4 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |        Messenger|         1.9.5|    Yes|     No|       Yes|   [GitHub](https://github.com/Geeklog-Plugins/messenger)|2020-06-09|
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
 
-* Net Tools doesn't use database.
+* The Net Tools plugin doesn't use database.
