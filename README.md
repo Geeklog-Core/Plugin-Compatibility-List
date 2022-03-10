@@ -22,8 +22,8 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |        Net Tools|         2.1.3|    Yes|Partial|       Yes|    [GitHub](https://github.com/Geeklog-Plugins/nettools)|2020-04-20|
 |      Search Rank|         1.2.2|    Yes|    Yes|        No|  [GitHub](https://github.com/Geeklog-Plugins/searchrank)|2022-03-08|
 
-** GUS-1.7.6.1 doesn't work with Geeklog 2.2.2, but its next version will.
-** Net Tools-2.1.3 works with PHP 8.0, but whois feature errors out because accessing array elements with curly braces was dropped with PHP 8.0.
+* GUS-1.7.6.1 doesn't work with Geeklog 2.2.2, but its next version will.
+* Net Tools-2.1.3 works with PHP 8.0, but whois feature errors out because accessing array elements with curly braces was dropped with PHP 8.0.
 
 ## Geeklog 2.2.1sr1 (released on 2020-04-16, works with PHP 7.3) ##
 |      Plugin Name|Plugin Version|PHP 7.3|PHP 8.0|PostgreSQL|                                         Plugin Home Page|  Released|
