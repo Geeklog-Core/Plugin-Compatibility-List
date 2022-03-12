@@ -17,6 +17,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |        Downloads|       1.2.3.1|    Yes|    Yes|        No|   [GitHub](https://github.com/Geeklog-Plugins/downloads)|2022-03-08|
 |              FAQ|       1.2.0.2|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/faq)|2022-03-10|
 |           Faqman|         0.9.2|    Yes|    Yes|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2022-01-18|
+|            Forum|         2.9.4|     No|     No|        No|       [GitHub](https://github.com/Geeklog-Plugins/forum)|2020-03-13|
 |              GUS|       1.7.6.2|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/gus)|2022-03-10|
 |          Langsel|         1.1.1|    Yes|    Yes|       Yes|     [GitHub](https://github.com/Geeklog-Plugins/langsel)|2022-03-10|
 |    Media Gallery|       1.7.2.5|    Yes|    Yes|        No|[GitHub](https://github.com/Geeklog-Plugins/mediagallery)|2022-03-10|
@@ -28,6 +29,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 
 * The Langsel, Net Tools and OGP plugins don't use database.
 * Net Tools-2.1.4 requires PHP 7.2.0 or newer.
+* Forum-2.9.4 doesn't work with Geeklog 2.2.2, but its next version will.
 
 ## Geeklog 2.2.1sr1 (released on 2020-04-16, works with PHP 7.3) ##
 |      Plugin Name|Plugin Version|PHP 7.3|PHP 8.0|PostgreSQL|                                         Plugin Home Page|  Released|
