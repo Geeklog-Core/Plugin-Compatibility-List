@@ -14,6 +14,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |   **Xmlsitemap**|         2.0.3|    Yes|    Yes|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2022-??-??|
 |         Autotags|         1.1.3|    Yes|    Yes|        No|    [GitHub](https://github.com/Geeklog-Plugins/autotags)|2020-04-18|
 |              Ban|         2.0.4|    Yes|    Yes|       Yes|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2022-01-20|
+|         Dokuwiki|         1.9.0|      ?|     No|        No|    [GitHub](https://github.com/Geeklog-Plugins/dokuwiki)|2016-09-18|
 |        Downloads|       1.2.3.1|    Yes|    Yes|        No|   [GitHub](https://github.com/Geeklog-Plugins/downloads)|2022-03-08|
 |              FAQ|       1.2.0.2|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/faq)|2022-03-10|
 |           Faqman|         0.9.2|    Yes|    Yes|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2022-01-18|
@@ -43,6 +44,7 @@ The tables below show whether each plugin runs on different Geeklog and PHP vers
 |   **Xmlsitemap**|         2.0.2|    Yes|      ?|       Yes|                  [Geeklog Home](https://www.geeklog.net)|2020-04-16|
 |         Autotags|         1.1.3|    Yes|      ?|        No|    [GitHub](https://github.com/Geeklog-Plugins/autotags)|2020-04-18|
 |              Ban|         2.0.3|    Yes|      ?|        No|         [GitHub](https://github.com/Geeklog-Plugins/ban)|2019-09-28|
+|         Dokuwiki|         1.9.0|      ?|     No|        No|    [GitHub](https://github.com/Geeklog-Plugins/dokuwiki)|2016-09-18|
 |           Faqman|         0.9.1|    Yes|     No|        No|      [GitHub](https://github.com/Geeklog-Plugins/faqman)|2018-06-07|
 |              GUS|       1.7.6.1|    Yes|    Yes|        No|         [GitHub](https://github.com/Geeklog-Plugins/gus)|2020-04-28|
 |    Media Gallery|       1.7.2.4|    Yes|      ?|        No|[GitHub](https://github.com/Geeklog-Plugins/mediagallery)|2020-06-09|
